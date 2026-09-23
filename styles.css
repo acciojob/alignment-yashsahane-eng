@@ -1,1 +1,40 @@
 /*  your css code here. If applicable */
+body {
+    text-align: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+.middle {
+    margin: 20px auto;
+    border-collapse: collapse;
+}
+
+table, td {
+    border: 1px solid black;
+    padding: 5px;
+}
+
+.center {
+    text-align: center;
+}
+
+.right {
+    text-align: right;
+}
+
+.green {
+    background-color: green;
+}
+
+.blue {
+    background-color: blue;
+}
+
+#t-image img {
+    width: 150px;
+    display: block;
+    margin: auto;
+}
